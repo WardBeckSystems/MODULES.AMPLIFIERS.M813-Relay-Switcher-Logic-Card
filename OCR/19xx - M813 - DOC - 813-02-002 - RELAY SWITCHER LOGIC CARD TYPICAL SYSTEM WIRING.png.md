@@ -26,7 +26,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (229, 13)–(432, 247) mm: LEVERWHEEL_ASSEMBLY · WBS /1-077 · DIAL · DIAL B · A-A · 1-8 · CARD SELEcT] RELAY SELECT · TAKE · READBACK · ISSUE IDATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRN: MRW · M813 · ENG.MRW 6/78 · REL
 - **Wiring (first pass):** 67 connected wire groups from 378 runs; labelled ends: 1727 mm → MBobA, (1-8), 8 M80BA, inPuts; 441 mm → 24v, INTERCONNECT CABLE, Pce 8-108; 157 mm → Ai-A8, (1-8), Hi-48, (57-64); 59 mm → Pi-3; 53 mm → MBobA, (1-8)
 
-Every curve, box, word and wire group: [19xx - M813 - DOC - 813-02-002 - RELAY SWITCHER LOGIC CARD TYPICAL SYSTEM WIRING (traced).json](../SCHEMATICS/19xx%20-%20M813%20-%20DOC%20-%20813-02-002%20-%20RELAY%20SWITCHER%20LOGIC%20CARD%20TYPICAL%20SYSTEM%20WIRING%20(traced).json) (the CAD file: `19xx - M813 - DOC - 813-02-002 - RELAY SWITCHER LOGIC CARD TYPICAL SYSTEM WIRING (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M813 - DOC - 813-02-002 - RELAY SWITCHER LOGIC CARD TYPICAL SYSTEM WIRING (traced).json](../SCHEMATICS/19xx%20-%20M813%20-%20DOC%20-%20813-02-002%20-%20RELAY%20SWITCHER%20LOGIC%20CARD%20TYPICAL%20SYSTEM%20WIRING%20%28traced%29.json) (the CAD file: `19xx - M813 - DOC - 813-02-002 - RELAY SWITCHER LOGIC CARD TYPICAL SYSTEM WIRING (traced).dxf`).
 
 ## Full text
 
