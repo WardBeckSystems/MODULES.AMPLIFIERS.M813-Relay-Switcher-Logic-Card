@@ -1,6 +1,6 @@
 # M813 Relay Switcher Logic Card · Amplifiers
 
-Ward-Beck Systems M813, 1978|11. Wiki page: [M813 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M813.html)
+Ward-Beck Systems M813, 1978|11. Wiki page: [M813 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M813-Relay-Switcher-Logic-Card/)
 
 | Folder | What is in it | Files |
 |---|---|---|

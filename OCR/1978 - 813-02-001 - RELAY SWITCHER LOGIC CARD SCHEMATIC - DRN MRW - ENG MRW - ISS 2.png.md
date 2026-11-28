@@ -1,5 +1,5 @@
 # 1978 - 813-02-001 - RELAY SWITCHER LOGIC CARD SCHEMATIC - DRN MRW - ENG MRW - ISS 2.png
-Wiki page: [M813](../../../../PAGES/M813.md)
+Wiki page: [M813](../)
 
 
 - **Year:** 1978 (title block date)
